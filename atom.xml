@@ -4,7 +4,7 @@
   <subtitle><![CDATA[后花园]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://leebon.me/"/>
-  <updated>2014-09-16T07:18:36.554Z</updated>
+  <updated>2014-09-16T07:22:20.778Z</updated>
   <id>http://leebon.me/</id>
   
   <author>
@@ -13,6 +13,34 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[新的开始]]></title>
+    <link href="http://leebon.me/2014/09/16/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://leebon.me/2014/09/16/新的开始/</id>
+    <published>2014-09-16T07:19:40.000Z</published>
+    <updated>2014-09-16T07:22:16.000Z</updated>
+    <content type="html"><![CDATA[<p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。</p>
+<p>通过下面的命令，就可以创建新文章</p>
+<figure class="highlight {bash}"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">D:<span class="command">\DevelopmentTools</span><span class="command">\hexo</span>&gt;hexo new 新的开始</div><div class="line"><span class="special">[</span>info<span class="special">]</span> File created at D:<span class="command">\DevelopmentTools</span><span class="command">\hexo</span><span class="command">\source</span><span class="command">\_</span>posts<span class="command">\新</span>的开始.md</div></pre></td></tr></table></figure>
+
+<p>感觉非常好。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。</p>
+<p>通过下面的命令，就可以创建新文章</p>
+<figure class="highlight {bash}"><table><tr><td class="gutter"><pre><]]>
+    </summary>
+    
+      <category term="开始" scheme="http://leebon.me/tags/%E5%BC%80%E5%A7%8B/"/>
+    
+      <category term="我" scheme="http://leebon.me/tags/%E6%88%91/"/>
+    
+      <category term="日记" scheme="http://leebon.me/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="日志" scheme="http://leebon.me/categories/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
