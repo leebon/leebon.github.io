@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://leebon.me/404.html</loc>
+    <lastmod>2014-09-16T07:14:26.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://leebon.me/2014/09/16/hello-world/</loc>
     <lastmod>2014-09-16T03:02:17.000Z</lastmod>
   </url>
